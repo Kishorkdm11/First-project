@@ -1,0 +1,12 @@
+Simply Learning:
+
+LAB ID Pass:
+
+WebConsole:
+User Name: kishorkadam1rbl
+Host: 52.73.73.1
+Pass: am1rbl0A@fda7j
+
+User Name: kishorkadam1rbl
+Pass: am1rbl0A@fda7j
+https://kishorkadam1rblsl0018.simplilearnlabs.com:42001/guacamole/?username=guacadmin&password=guacadmin
